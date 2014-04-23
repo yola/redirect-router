@@ -24,7 +24,7 @@ module.exports = function(grunt) {
     },
     jshint: {
       options: {
-        jshintrc: ".jshintrc"
+        jshintrc: "bower_components/jsgreat/.jshintrc"
       },
       configs: [
         "Gruntfile.js",

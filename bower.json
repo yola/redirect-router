@@ -19,6 +19,9 @@
     "test",
     "tests"
   ],
+  "dependencies": {
+    "jsgreat": "https://github.com/yola/jsgreat.git#0.1.0"
+  },
   "devDependencies": {
     "requirejs": "2.1.x",
     "jquery": "1.10.2",
