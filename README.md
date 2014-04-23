@@ -21,7 +21,7 @@ Redirect Router can be used as a normal Javascript library
 Redirect Router can also be used as a RequireJS module
 
 ```javascript
-var router = require('path/to/redirect-router');
+var redirectRouter = require('path/to/redirect-router');
 ```
 
 ## Use it
@@ -29,13 +29,13 @@ var router = require('path/to/redirect-router');
 ### A simple redirect
 
 ```javascript
-router.redirect('http://yola.com');
+redirectRouter.redirect('http://yola.com');
 ```
 
 ### A timeout redirect
 
 ```javascript
-router.timeoutRedirect({
+redirectRouter.timeoutRedirect({
     url: 'http://yola.com',
     timeout: 400
 });
@@ -48,11 +48,11 @@ default to this value.
 
 
 ```javascript
-router.setNextUrl('http://yola.com');
+redirectRouter.setNextUrl('http://yola.com');
 ```
 
 ### Get the nextUrl
 
 ```javascript
-var nextUrl = router.getNextUrl();
+var nextUrl = redirectRouter.getNextUrl();
 ```
