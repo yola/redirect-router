@@ -1,0 +1,25 @@
+{
+  "name": "redirect-router",
+  "version": "0.0.1",
+  "description": "Bower package for redirecting a browser",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yola",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "1.2.x",
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-contrib-clean": "0.4.x",
+    "grunt-contrib-jasmine": "0.5.x",
+    "grunt-contrib-jshint": "0.7.x",
+    "grunt-contrib-requirejs": "0.4.x",
+    "grunt-contrib-testem": "0.5.x",
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-env": "0.4.x",
+    "load-grunt-tasks": "0.2.x",
+    "testem": "0.5.x"
+  }
+}
