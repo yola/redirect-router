@@ -12,13 +12,13 @@ A super simple Javascript module for redirecting a browser.
 
 ## Source or Import it
 
-* Can be used as a normal Javascript library
+Redirect Router can be used as a normal Javascript library
 
 ```html
 <script src="redirect-router/build/compiled.js"></script>
 ```
 
-* Can also be used as a RequireJS module
+Redirect Router can also be used as a RequireJS module
 
 ```javascript
 var router = require('path/to/redirect-router');
