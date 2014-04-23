@@ -4,7 +4,7 @@ var require = {
   paths: {
     jquery: '../bower_components/jquery/jquery'
   },
-  optimize: 'none',
-  out: 'build/compiled.js',
+  optimize: 'uglify',
+  out: 'build/router.min.js',
   keepBuildDir: true
 };
