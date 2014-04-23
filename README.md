@@ -1,7 +1,7 @@
 Redirect Router
 ===============
 
-[![Build Status](https://travis-ci.org/yola/redirect-router.png)](https://travis-ci.org/redirect-router)
+[![Build Status](https://travis-ci.org/yola/redirect-router.png)](https://travis-ci.org/yola/redirect-router)
 
 A super simple Javascript module for redirecting a browser.
 
