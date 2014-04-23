@@ -7,7 +7,8 @@ A super simple Javascript module for redirecting a browser.
 
 ## Download it
 
-* Download the [build](https://raw.githubusercontent.com/yola/redirect-router/initial_pull/build/compiled.js)
+* Download the [minified build](https://raw.githubusercontent.com/yola/redirect-router/master/build/router.min.js)
+* Download the [source](https://raw.githubusercontent.com/yola/redirect-router/master/src/router.js)
 * Bower install it with `bower install redirect-router`
 
 ## Source or Import it
