@@ -2,7 +2,7 @@
   "name": "redirect-router",
   "version": "0.0.1",
   "authors": [
-    "kahnjw <jarrod@yola.com>"
+    "Yola Engineering <engineers@yola.com>"
   ],
   "description": "Bower package for redirecting a browser",
   "main": "src/router.js",
@@ -11,7 +11,7 @@
     "router"
   ],
   "license": "MIT",
-  "homepage": "http://github.com/yola",
+  "homepage": "http://github.com/yola/redirect-router",
   "ignore": [
     "**/.*",
     "node_modules",
